@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a .NET Web API project using SQL Server and Entity Framework Core<br>I’m looking to collaborate on API-driven or backend-focused projects<br>I’m looking for help with scaling RESTful APIs and improving performance<br>I’m currently learning JWT authentication, SignalR, and Redis caching<br>Ask me about C#, ASP.NET Core, and database design<br>Fun fact: I enjoy playing games and dancing :D
+I’m currently working at FPT Software DN as a software engineer<br>Looking to collaborate on API-driven or backend-focused projects<br>Currently learning Redis caching<br>Ask me about C#, ASP.NET Core, and database design<br>Fun fact: I enjoy playing games and dancing :D
 
 
 ## 🌐 Socials:
