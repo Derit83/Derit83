@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working at FPT Software DN as a software engineer<br>Looking to collaborate on API-driven or backend-focused projects<br>Currently learning Redis caching<br>Ask me about C#, ASP.NET Core, Java, Java Spring Boot and database design<br>Fun fact: I enjoy playing games and dancing :D
+I’m currently working at FPT Software DN as a software engineer<br>Looking to collaborate on API-driven or backend-focused projects<br>Currently learning Redis caching<br>Developed several 2D games in Unity using C#<br>Ask me about C#, ASP.NET Core, Java, Java Spring Boot and database design<br>Fun fact: I enjoy playing games and dancing :D
 
 
 ## 🌐 Socials:
